@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+}
+a{
+padding: 5px;
+margin: 20px;
+}
+
+h1{
+text-align: center;
+}
+
+main img{
+padding: 30px;
+border-left:10px dotted black ;
+}
+
+p{
+
+}
+
+footer{
+background-color: black;
+padding:5px;
+
+}
+
+
+footer p{
+background-color: white;
+
+}
